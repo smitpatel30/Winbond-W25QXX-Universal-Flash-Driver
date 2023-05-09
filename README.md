@@ -3,7 +3,8 @@
 Hey Guys!!.......
 
 This is a universal flash driver for Windbond W25QXX Series. Using this driver, you can interface majority of Winbond SPI Flash memory.
-It was previously developed by a youtuber named 
+It was previously developed by a youtuber named nimaltd , but it contains a lot of bugs. I removed all of the bugs and generated a new version of flash driver.
+
 You can easily write, read and erase the contents using this driver. In addition , this driver will also useful for synchronizing flash driver with a desired file system.
 
 You can program blocks,sectors or pages in order to store your valuable data.......
