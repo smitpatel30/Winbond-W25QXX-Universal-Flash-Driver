@@ -1,4 +1,7 @@
 
+/* Note :- This is an updated driver for W25QXX Flash memory. There a lot of changes made my me. Each change is described in this header
+           file. 
+*/
 
 #ifndef INC_W25QXX_H_
 #define INC_W25QXX_H_
