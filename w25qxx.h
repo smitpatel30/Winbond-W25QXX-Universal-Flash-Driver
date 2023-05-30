@@ -70,7 +70,6 @@ extern "C"
 #include <stdio.h>
 #endif
 
-#define W25QXX_DUMMY_BYTE  0xA5
 
 w25qxx_t w25qxx;
 extern SPI_HandleTypeDef  _W25QXX_SPI;
